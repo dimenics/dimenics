@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/dimenicslogo.png" height="200px"/>
+    <img src="./assets/logo.png" height="200px"/>
 </p>
 
 <h1 align="center">Dimenics</h1>
@@ -19,6 +19,6 @@ For example: `https://raw.githubusercontent.com/dimenics/dimenics/master/assets/
 
 | Logo                                                                   |
 | ---------------------------------------------------------------------- |
-| <img src="./assets/dimenicslogo.png" style='max-height:50px'>          |
+| <img src="./assets/logo.png" style='max-height:50px'>          |
 | <img src="./assets/dimescheduler-dark.png" style='max-height:50px'/>   |
 | <img src="./assets/dimescheduler-light.png" style='max-height:50px' /> |
